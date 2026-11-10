@@ -1,4 +1,4 @@
-package taller12.Ejercicio1;
+package taller12.Ejercicio1SegundaParte;
 
 public class Persona implements Hablador, Trabajador {
     private String nombre;

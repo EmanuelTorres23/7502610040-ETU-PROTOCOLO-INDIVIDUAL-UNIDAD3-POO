@@ -1,4 +1,4 @@
-package taller12.Ejercicio2;
+package taller12.Ejercicio2SegundaParte;
 
 public class Animal implements Volador, Nadador {
     private String especie;

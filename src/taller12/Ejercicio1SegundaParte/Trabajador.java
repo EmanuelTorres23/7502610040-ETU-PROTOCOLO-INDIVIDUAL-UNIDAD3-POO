@@ -1,4 +1,4 @@
-package taller12.Ejercicio1;
+package taller12.Ejercicio1SegundaParte;
 
 public interface Trabajador {
     void trabajar();
